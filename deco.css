@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url('a.jpg');
+}
+
+h1{
+    margin-top: 20px;
+    font-family: 'Poppins';
+}
+iframe{
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 30px;
+}
+
